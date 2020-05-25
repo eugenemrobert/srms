@@ -1,2 +1,2 @@
-#srms
-this is a SChool REsults Management System
+# SRMS
+This is a School Results Management System
